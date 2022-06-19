@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="271px" height="271px" viewBox="0 0 271 271" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>Logo Copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="122.5" cy="123.304394" r="122.5"></circle>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD-Copy" transform="translate(-519.000000, -159.000000)">
+            <g id="Group" transform="translate(519.000000, 159.000000)">
+                <g id="Logo-Copy">
+                    <circle id="Oval" fill="#E89F1F" cx="135.5" cy="135.5" r="135.5"></circle>
+                    <g id="L-+-L-Mask" transform="translate(13.000000, 12.195606)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="Mask" fill="#FFFFFF" xlink:href="#path-1"></use>
+                        <polygon id="L" fill="#E89F1F" fill-rule="nonzero" mask="url(#mask-2)" points="197.595703 222.804394 34 222.804394 81.403423 -2.19560572 107.026895 -2.19560572 64.4278729 199.01868 223.949219 199.01868"></polygon>
+                        <polygon id="L" fill="#E89F1F" fill-rule="nonzero" mask="url(#mask-2)" points="242.195599 171.804394 116 171.804394 153.670846 -7 177.691475 0.34666828 146.427873 148.01868 247 148.01868"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
