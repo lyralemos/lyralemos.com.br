@@ -1,0 +1,25 @@
+version: '3.8'
+
+services:
+  api:
+    build:
+      context: ./api
+    volumes:
+      - ./api:/app
+      - bundle-data:/bundle
+    ports:
+      - 3000:3000
+    depends_on:
+      - postgres
+    env_file: .env
+  postgres:
+    image: postgres:14-alpine
+    env_file: .env
+    ports:
+      - 5432:5432
+    volumes:
+      - postgres-data:/var/lib/postgresql/data
+
+volumes:
+  postgres-data:
+  bundle-data:
